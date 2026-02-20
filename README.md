@@ -58,6 +58,8 @@ All Set
 ```
 ./venv/bin/python3 cli.py
 ```
+![Preview Image](photo_2026-02-20_19-26-01.jpg)
+
 ### Claim Foucet- https://faucet-devnet.octra.com/
 ### Exploer - https://scan.octra.com/
 
