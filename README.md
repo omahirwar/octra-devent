@@ -20,7 +20,13 @@ rm -rf octra_ref_client
 git clone --depth=1 https://github.com/octra-labs/octra_ref_client.git
 cd octra_ref_client
 ```
-### Edit File 
-````
+### Run
+```
+bash setup.sh
+```
+## Importent - IF Some Error Occurs Then Edit 
+```
 nano setup.sh
+```
+
 
