@@ -63,6 +63,6 @@ All Set
 ### Claim Foucet- https://faucet-devnet.octra.com/
 ### Exploer - https://scan.octra.com/
 
-### More Update Follow Now - 
+### More Update Follow Now - https://x.com/hi_vecna
 
 
