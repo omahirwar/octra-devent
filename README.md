@@ -1,4 +1,4 @@
-# octra-devent 
+### Octra Devnet CLI ( PC + Mobile ) 
 
 ### Offical Link by Octra - https://github.com/octra-labs/octra_ref_client
 
@@ -59,5 +59,8 @@ All Set
 ./venv/bin/python3 cli.py
 ```
 ### Claim Foucet- https://faucet-devnet.octra.com/
+### Exploer - https://scan.octra.com/
+
+### More Update Follow Now - 
 
 
