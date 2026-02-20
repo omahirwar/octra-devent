@@ -28,5 +28,6 @@ bash setup.sh
 ```
 nano setup.sh
 ```
+![Preview Image](photo_2026-02-20_18-55-59.jpg)
 
 
